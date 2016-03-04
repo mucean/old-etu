@@ -3,7 +3,6 @@
 
 ##主要function
 ---
-
 ###1. use Singleton
 
 使用单例模式
@@ -15,3 +14,5 @@
 ###3. set()
 
 ###4. get()
+
+###5. expire()
